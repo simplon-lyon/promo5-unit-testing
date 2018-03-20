@@ -54,6 +54,7 @@ describe('jasmine syntax', function() {
             expect(() => concabloup(param)).toThrow(new Error('no object'));
 
         });
+    
     });
 
 
